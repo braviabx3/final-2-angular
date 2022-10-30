@@ -1,0 +1,93 @@
+:root {
+  --rojo: #e50914;
+  --fondo: #141414;
+  --color: #ffffff;
+  --font-logo: "Bebas Neue", cursive;
+  --font-text: "Open Sans", sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  scroll-behavior: smooth;
+  height: 100%;
+  width: 100%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  background: var(--fondo);
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  transition: all 0.5s ease-out;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+h5 {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+h6 {
+  margin: 0;
+  font-size: 0.7rem;
+}
+
+i {
+  transition: all 0.5s ease-out;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.conteiner__custom {
+  width: 90%;
+  margin: auto;
+}
+
+.form-floating {
+  text-align: start;
+}
+.error__label {
+  margin-left: 5px;
+}

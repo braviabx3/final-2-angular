@@ -1,0 +1,65 @@
+.hero-page1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../../../../assets/img/2.png");
+  background-position: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: fill;
+  height: 100vh;
+  width: 100%;
+}
+.bar__search {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  margin: 0;
+  color: rgb(251, 251, 251);
+  text-align: center;
+}
+.container__custom .row {
+  min-height: 100vh;
+}
+.card-display {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 15px;
+  padding: 1rem;
+  background-color: var(--fondo);
+}
+.card_body {
+  background-color: white;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+.image {
+  width: 100%;
+  cursor: pointer;
+  height: 30vh;
+}
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  height: 25vh;
+}
+.details {
+  margin: o auto;
+  width: 100%;
+}
+.details a {
+  color: var(--rojo);
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+}
+.details :nth-last-child(1) {
+  color: green;
+  justify-self: end;
+  padding-right: 20px;
+}

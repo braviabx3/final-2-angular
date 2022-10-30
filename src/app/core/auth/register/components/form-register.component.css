@@ -1,0 +1,20 @@
+.register__container {
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.register__container .section__register {
+  min-width: 15rem;
+  max-width: 30rem;
+  padding: 1.8rem;
+}
+.register__container .section__register img {
+  justify-content: center;
+}
+
+.register__container .section__register .logo {
+  width: 8rem;
+  height: 8rem;
+}
