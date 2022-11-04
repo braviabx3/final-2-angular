@@ -1,21 +1,18 @@
 .hero-image {
   font-size: 16px;
-  min-height: 100vh;
+  min-height: 70vh;
   color: var(--color);
   font-family: var(--font-text);
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 0.7) 0%,
-      rgba(0, 0, 0, 0.7) 100%
-    ),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.7) 100%),
     url(../../../../shared/data/img/book.webp);
   background-size: cover;
   background-position: center;
-  margin-bottom: 3.12em;
   display: flex;
   align-items: center;
 }
 
-.hero-image .conteiner__custom {
+.hero-image .container__custom {
   margin: 0 auto;
   margin-bottom: 6.25em;
   display: flex;
@@ -42,6 +39,7 @@
   font-size: 1.25;
   margin-bottom: 0.4em;
 }
+
 .hero-image .text__home {
   font-weight: normal;
   font-size: 1em;
@@ -61,6 +59,7 @@
     justify-items: flex-end;
     justify-content: initial;
   }
+
   .hero-image .text__home {
     max-width: 100%;
     margin-bottom: 1.25em;

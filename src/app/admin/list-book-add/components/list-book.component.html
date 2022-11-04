@@ -1,0 +1,13 @@
+<section class="container-fluid mt-4">
+  <div class="container">
+    <div class="card__container">
+      <div *ngFor="let book of books" class="card ">
+        <img class="img__book" [src]="book.imageLinks" alt="" class="card-img-top">
+        <div class="card-body btn-card">
+          <a href="{{book.pdf}}" class="btn btn-outline-success btn-sm">Escuchar</a>
+          <a href="" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

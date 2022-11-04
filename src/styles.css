@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background: var(--fondo);
+  /*   background: var(--fondo); */
   font-family: "Open Sans", sans-serif;
   margin: 0;
   overflow-x: hidden;
@@ -80,7 +80,7 @@ p {
   line-height: 1.6;
 }
 
-.conteiner__custom {
+.container__custom {
   width: 90%;
   margin: auto;
 }
@@ -88,6 +88,7 @@ p {
 .form-floating {
   text-align: start;
 }
+
 .error__label {
   margin-left: 5px;
 }

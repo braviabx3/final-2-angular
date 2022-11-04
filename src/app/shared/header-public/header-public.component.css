@@ -2,7 +2,7 @@
   padding: 2rem 0;
 }
 
-.header .conteiner__custom {
+.header .container__custom {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -22,7 +22,7 @@
   align-items: center;
 }
 
-.header .menu .link__nav > a {
+.header .menu .link__nav>a {
   color: #aaa;
   margin-right: 1.25rem;
   text-decoration: none;
@@ -59,12 +59,15 @@
   .header .menu {
     flex-direction: column;
   }
+
   .header .menu .link__nav {
     margin-bottom: 1.25em;
   }
-  .header .menu .link__nav > a {
+
+  .header .menu .link__nav>a {
     font-size: 14px;
   }
+
   .header .menu .login__btn {
     font-size: 14px;
   }

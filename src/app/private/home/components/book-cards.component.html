@@ -1,42 +1,14 @@
-<div *ngIf="!loading" class="container-fluid hero-page1">
-  <div class="container bar__search">
-    <div class="row justify-content-center align-items-center">
-      <div class="col-lg-12 col-md-12 col-sm-12">
-        <h1>Encuentra tu libro favorito</h1>
-        <input [formControl]="queryField" id="keyword" type="search" class="form-control" id="exampleInputEmail1"
-          aria-describedby="emailHelp" />
-      </div>
-    </div>
-  </div>
-
-
-  <div *ngIf="loading" class="container-fluid mt-4">
-    <div class="container">
-      <div class="row justify-content-start align-items-start mb-5">
-        <div class="col-lg-12">
-          <!-- <form [formGroup]="addForm"> formControlName="keyword"  required-->
-          <input class="form-control" [formControl]="queryField" type="search" id="keyword"
-            placeholder="search for artists..." typeahead-wait-ms="delay" autocomplete="off">
-          <!-- </form> -->
+<section class="container-fluid mt-4">
+  <div class="container">
+    <div class="card__container">
+      <div *ngFor="let product of bookList" class="card ">
+        <img class="img__book" *ngIf="product.volumeInfo.imageLinks"
+          src="{{ product.volumeInfo.imageLinks.smallThumbnail }}" alt="" class="card-img-top">
+        <div class="card-body btn-card">
+          <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+          <a href="" class="btn btn-outline-danger btn-sm"><i class="far fa-heart"></i></a>
         </div>
       </div>
     </div>
   </div>
-</div>
-
-<div *ngIf="items" class="card-display">
-  <div *ngFor="let product of items" class="card_body">
-    <div class="image">
-      <img *ngIf="product.volumeInfo.imageLinks" src="{{ product.volumeInfo.imageLinks.thumbnail }}" alt="" />
-    </div>
-    <div *ngFor="let aut of product.volumeInfo.authors">
-      <span> Authors: {{ aut }}</span>
-    </div>
-    <div class="details">
-      <span>Title: {{ product.volumeInfo.title }}</span> <br />
-      <br />
-      <a [routerLink]="['/new', combineSlug(product.id)]">Detalles</a>
-      <a (click)="goToLink(product.volumeInfo.previewLink)">Info</a>
-    </div>
-  </div>
-</div>
+</section>

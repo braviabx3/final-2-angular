@@ -1,0 +1,7 @@
+{
+  "/api/": {
+    "target": "https://librivox.org/api/feed/audiobooks",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}

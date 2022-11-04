@@ -1,0 +1,233 @@
+{
+  "books": [
+    {
+      "id": "sl5CDgAAQBAJ",
+      "genre": "terror",
+      "volumeInfo": {
+        "title": "Erebus",
+        "subtitle": "Historia de un barco",
+        "authors": [
+          "Gillian Hutchinson"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2017-07-13",
+        "description": "El barco que viajó dos veces al fin del mundo. El HMS Erebus emprendió dos de las expediciones navales más ambiciosas de todos los tiempos. La primera lo llevó más al sur de lo que cualquier humano había llegado jamás. Durante la segunda, desapareció sin dejar rastro en las aguas del Ártico. Los motivos de su trágico final están rodeados de misterio. Michael Palin, estrella de los Monty Python y expresidente de la Real Sociedad Geográfica de Londres, recrea vívidamente la historia del Erebus, desde su botadura en 1826 a las épicas expediciones que lo llevaron a la gloria y, posteriormente, al desastre.",
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=sl5CDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "buyLink": "https://play.google.com/store/books/details?id=sl5CDgAAQBAJ&rdid=book-sl5CDgAAQBAJ&rdot=1&source=gbs_api",
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Sir_John_Franklin_s_Erebus_and_Terror_Ex-sample-pdf.acsm?id=sl5CDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        }
+      }
+    },
+    {
+      "id": "efMm3GwF38IC",
+      "genre": "terror",
+      "volumeInfo": {
+        "title": "Cuentos de Amor y Terror",
+        "subtitle": "Lost and Found",
+        "authors": [
+          "Nelson Cordido Rovati"
+        ],
+        "publisher": "LibrosEnRed",
+        "publishedDate": "2008-02",
+        "description": "Doce relatos que exploran las intimidades que mueven a los seres humanos. Algunos de amor, otros de terror, otros mas que mezclan ambas cosas y hasta incluyen algo de humor o, simplemente, de reflexion. Que sentiria una mujer que se enamora profundamente de un hombre y luego descubre que el esta felizmente casado? \"Cruel soledad.\" Cual seria el resultado de un inocente juego en el que estan involucrados los celos y la vida de tu mejor amigo? \"Juego fatal.\" Llegarias a convencer a una persona para que sacrifique su dignidad con tal de salvarte de una muerte probable? Existe realmente el amor a primera vista? Estas dispuesto a renunciar al matrimonio, trabajo, amigos... por un amor repentino? \"Amor instantaneo.\" Estarias dispuesto a permanecer varias horas encerrado en un ataud bajo tierra para escapar de una prision? \"Funeral riesgoso.\" Asi escribe Nelson: pequenas historias habitadas por el encanto y por los movimientos sordidos del destino.",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=efMm3GwF38IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.co/books/download/Cuentos_de_Amor_y_Terror-sample-pdf.acsm?id=efMm3GwF38IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          }
+        }
+      }
+    },
+    {
+      "id": "B9E3yvZptzgC",
+      "genre": "terror",
+      "volumeInfo": {
+        "title": "Terror en el viaje de egresados / Terror in the Graduation Trip",
+        "authors": [
+          "Fabian Sevilla"
+        ],
+        "publisher": "Editorial Albatros",
+        "publishedDate": "2012-01-30",
+        "description": "Sin descripción",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B9E3yvZptzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.co/books/download/Terror_en_el_viaje_de_egresados_Terror_i-sample-pdf.acsm?id=B9E3yvZptzgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          }
+        }
+      }
+    },
+    {
+      "id": "8KotAAAAIAAJ",
+      "genre": "terror",
+      "volumeInfo": {
+        "title": "Terror!!!",
+        "subtitle": "guiones : crónicas del viejo Pereira, que era el nuevo",
+        "authors": [
+          "Euclides Jaramillo Arango"
+        ],
+        "publishedDate": "1984",
+        "description": "Sin descripción",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8KotAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          }
+        }
+      }
+    },
+    {
+      "id": "XJpkZWzWJMwC",
+      "genre": "terror",
+      "volumeInfo": {
+        "title": "Los más famosos cuentos de terror",
+        "publisher": "Imaginador",
+        "publishedDate": "2001",
+        "description": "Sin descripción",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=XJpkZWzWJMwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true
+          }
+        }
+      }
+    },
+    {
+      "id": "VJLJMGP5k1cC",
+      "genre": "fantasia",
+      "volumeInfo": {
+        "title": "El poder de la fantasía",
+        "subtitle": "observaciones sobre la historia del pensamiento occidental",
+        "authors": [
+          "Ernesto Grassi",
+          "Emilio Hidalgo-Serna"
+        ],
+        "publisher": "Anthropos Editorial",
+        "publishedDate": "2003",
+        "description": "El subtitulo de esta obra senala claramente la voluntad del autor de mostrar las posibilidades especulativas de la fantasia y del lenguaje imaginativo en el humanismo italiano. Hace evidentes en cada uno de sus once capitulos el contraste y las diferencias respecto al concepto tradicional del saber y de la palabra racional. Critica, en primer lugar, la primacia de la logica formal en la obra de Wittgenstein, y concluye su libro refiriendose a Giambattista Vico, del que muestra la actualidad de su pensamiento humanistico.",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VJLJMGP5k1cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.co/books/download/El_poder_de_la_fantas%C3%ADa-sample-pdf.acsm?id=VJLJMGP5k1cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          }
+        }
+      }
+    },
+    {
+      "id": "VJLJMGP5k1cC",
+      "genre": "fantasia",
+      "volumeInfo": {
+        "title": "Pura Fantasia",
+        "authors": [
+          "Güicho El Chicho"
+        ],
+        "publisher": "Palibrio",
+        "publishedDate": "2012-11-12",
+        "description": "Desde hace tiempo, tenía deseos de escribir algo interesante y narrar mis sueños, vivencias y experiencias. El haber logrado lo anterior, no ha sido fácil por ello admiro a los literatos. Dicen que el trabajo es empezar, aunque vayas escribiendo para algunas personas puras pendejadas, pero no se atreven. Lo que hago es con alegría y entusiasmo para compartirlo con los amantes de la lectura. Es diferente y original, para dejarle al lector buen sabor de boca y si deja mensaje tanto mejor. A través de estas páginas, toco temas históricos y costumbres de mi amado México. Encontraran anécdotas, parte de mi lírica, albures, cuentos y canciones; destacando los episodios de mi loca y fantasiosa mente. Tratare de llevar una escritura acorde a los temas y si caigo en lo vulgar, son cosas del vulgo, pero sin ganas de ofender. Usare un lenguaje culto y pícaro, cuando las circunstancias así lo requieran. Si lo hiciera diferente se perdería lo jocoso y no es la idea... ¡Aunque la patria no me lo demande!, pobre patria como la chingamos. Pero sigue erecta y bella. A continuación quiero dedicar un poema, a todo el que tenga el valor de comprar el libro y a los que no... ¡También!, pues aunque son gorrones, tienen derecho a conocer novedades literarias, que de algo han de servir. “Pobre patria mía, como la han chingado”",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xWNVAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.co/books/download/Pura_Fantasia-sample-pdf.acsm?id=xWNVAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          }
+        }
+      }
+    },
+    {
+      "id": "juyYDwAAQBAJ",
+      "genre": "fantasia",
+      "volumeInfo": {
+        "title": "La isla de la fantasia",
+        "subtitle": "El colonialismo, la explotacion y la traicion a Puerto Rico",
+        "authors": [
+          "Ed Morales"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2019-11-05",
+        "description": "A crucial, clear-eyed accounting of Puerto Rico's 122 years as a colony of the US. Since its acquisition by the US in 1898, Puerto Rico has served as a testing ground for the most aggressive and exploitative US economic, political, and social policies. The devastation that ensued finally grew impossible to ignore in 2017, in the wake of Hurricane María, as the physical destruction compounded the infrastructure collapse and trauma inflicted by the debt crisis. In Fantasy Island, Ed Morales traces how, over the years, Puerto Rico has served as a colonial satellite, a Cold War Caribbean showcase, a dumping ground for US manufactured goods, and a corporate tax shelter. He also shows how it has become a blank canvas for mercenary experiments in disaster capitalism on the frontlines of climate change, hamstrung by internal political corruption and the US federal government's prioritization of outside financial interests. Taking readers from San Juan to New York City and back to his family's home in the Luquillo Mountains, Morales shows us the machinations of financial and political interests in both the US and Puerto Rico, and the resistance efforts of Puerto Rican artists and activists. Through it all, he emphasizes that the only way to stop Puerto Rico from being bled is to let Puerto Ricans take control of their own destiny, going beyond the statehood-commonwealth-independence debate to complete decolonization.",
+        "imageLinks": {
+          "thumbnail": {
+            "smallThumbnail": "http://books.google.com/books/content?id=juyYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          }
+        }
+      }
+    },
+    {
+      "id": "Jxw0EAAAQBAJ",
+      "genre": "fantasia",
+      "volumeInfo": {
+        "title": "Ventana De Fantasia",
+        "authors": [
+          "Thiago Spíndola"
+        ],
+        "publisher": "Clube de Autores",
+        "publishedDate": "2021-06-08",
+        "description": "El tiempo es la más obstinada de todas las cosas. Cuando queremos que pase, de una rabieta, congela todo, convierte los segundos en minutos, las horas en días. Que mal esperar. Eso es el resumen de mi vida, esperar. ¡Siempre he esperado que algo aconteciera… Aconteció! Yago vino y cambió todo lo que se pasaba, cerrada en mi habitación por la sobreprotección de mi madre, nunca me fui a una escuela, estudié desde casa y decidí usar mi imaginación para salir de eso. Imaginé mis amigos fantásticos: perros, gatos, osos… pero uno parecía muy real, Yago era un niño que venía siempre para estar conmigo, hasta llegué a pensar que él realmente existía. ¿Será que realmente él es real?",
+        "imageLinks": {
+          "thumbnail": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.co/books/download/Ventana_De_Fantasia-sample-pdf.acsm?id=Jxw0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "language": "es",
+          "buyLink": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          }
+        }
+      }
+    }
+  ]
+}

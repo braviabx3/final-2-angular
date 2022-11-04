@@ -1,0 +1,9 @@
+.form__book {
+  padding-top: 4rem;
+  max-width: 1000px;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 40px;
+}
